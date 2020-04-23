@@ -17,13 +17,13 @@ color: white; background: #8c5b; font: 15px arial, sans-serif; border: solid 2px
 ### terminal
 
 ```css
-/*terminal*/
 color: #5f3f; background: #040e; font: bold 17px Terminus, FreeSans, monospace; border-radius: 10px 0px; border: 4px #3a3; border-style: outset dashed double double; padding: 3px; text-align: left; text-shadow: 1px 0px 6px #4f4a;
 ```
 
 ### abstractPaint
 
 Colorfull By CarlosAngelOficial / CC BY-SA 4.0
+
 https://commons.wikimedia.org/wiki/File:198690-texture.jpg
 
 ```css
@@ -57,6 +57,7 @@ color: white; background: black url(https://images.pexels.com/photos/169789/pexe
 ### sunsetBackground
 
 Mac Qin - Maldives in the morning (Constance Halaveli Resort & Spa)
+
 https://www.flickr.com/photos/qin1109/14401060837
 
 ```css
